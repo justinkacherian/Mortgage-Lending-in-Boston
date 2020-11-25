@@ -2,4 +2,4 @@
 
 -The reference text ("Intro to Econometrics") is attached. All equations and tables replicated and analyzed are found here.
 
--The project directions and subsequent questions are also attached for reference.
+-There are some project questions that are attached for reference.
