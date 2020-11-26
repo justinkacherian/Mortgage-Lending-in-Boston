@@ -2,7 +2,7 @@
 
 
 
-use "C:\Users\justin\OneDrive\ECO_4010\Stata\Datasets\hmda_sw.dta"
+use "C:\Users\justin\OneDrive\Stata\Datasets\hmda_sw.dta"
 
 
 # delimit ;
